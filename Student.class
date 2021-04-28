@@ -4,4 +4,8 @@ public class Student{
    private String stuPassword;
    private Integer age;
    private BigDecinmal money;
+   public void sayHello(){
+     System.out.println("hello world");
+   }
+   
 }
